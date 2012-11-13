@@ -1,0 +1,9 @@
+H:\Projects\SRChat\SRChat\bin\SRChat.dll
+H:\Projects\SRChat\SRChat\bin\SRChat.pdb
+H:\Projects\SRChat\SRChat\bin\Newtonsoft.Json.dll
+H:\Projects\SRChat\SRChat\bin\SignalR.dll
+H:\Projects\SRChat\SRChat\bin\SignalR.Hosting.AspNet.dll
+H:\Projects\SRChat\SRChat\bin\SignalR.Hosting.Common.dll
+H:\Projects\SRChat\SRChat\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\SRChat\SRChat\obj\Debug\SRChat.dll
+H:\Projects\SRChat\SRChat\obj\Debug\SRChat.pdb
